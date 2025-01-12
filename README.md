@@ -2,7 +2,7 @@
 - My native language is JavaScript
 - I try to learn Java
 
-My favorite game is Mindustry and Mindustry 🤣
+My favorite game is Mindustry and Mindustry 🤣<br>
 Working on evolution simulator.
 <!---
 Kornelf4/Kornelf4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
